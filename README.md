@@ -1,9 +1,8 @@
 # AWS Storage and Database Lab
-S3, RDS, and serverless (Lambda) configurations in AWS
+
 Hands-on AWS project simulating real-world Cloud Support tasks involving storage, databases, and serverless services.
 
-S3, RDS, and Lambda setup with security, configuration, and basic troubleshooting.
-
+S3, RDS, and Lambda setup with security, configuration, and troubleshooting.
 ---
 
 ## Overview
@@ -67,8 +66,8 @@ I configured secure storage using S3, deployed and tested a relational database 
 
 ## Project Documentation
 
-- S3 Configuration (PDF)[aws-s3-configuration.pdf.pdf](https://github.com/user-attachments/files/26068586/aws-s3-configuration.pdf.pdf)
+- S3 Configuration (PDF)[aws-s3-configuration.pdf](https://github.com/user-attachments/files/26068586/aws-s3-configuration.pdf.pdf)
 
-- RDS Database Setup (PDF)[aws-rds-database-setup.pdf.pdf](https://github.com/user-attachments/files/26068599/aws-rds-database-setup.pdf.pdf)
+- RDS Database Setup (PDF)[aws-rds-database-setup.pdf](https://github.com/user-attachments/files/26068599/aws-rds-database-setup.pdf.pdf)
 
-- Lambda Serverless Setup (PDF)[ws-lambda-serverless.pdf.pdf](https://github.com/user-attachments/files/26068604/ws-lambda-serverless.pdf.pdf)
+- Lambda Serverless Setup (PDF)[aws-lambda-serverless.pdf](https://github.com/user-attachments/files/26068604/ws-lambda-serverless.pdf.pdf)
