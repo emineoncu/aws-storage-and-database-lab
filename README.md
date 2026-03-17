@@ -65,6 +65,6 @@ I configured secure storage using S3, deployed and tested a relational database 
 - Learned how to debug Lambda execution errors
 
 ## Project Documentation
-- [S3 Configuration (PDF)](https://github.com/user-attachments/files/26068931/aws-s3-configuration.pdf)
-- [RDS Database Setup (PDF)](https://github.com/user-attachments/files/26068933/aws-rds-database-setup.pdf)
-- [Lambda Serverless Setup (PDF)](https://github.com/user-attachments/files/26068938/aws-lambda-serverless.pdf)
+- [S3 Configuration PDF](https://github.com/user-attachments/files/26068931/aws-s3-configuration.pdf)
+- [RDS Database Setup PDF](https://github.com/user-attachments/files/26068933/aws-rds-database-setup.pdf)
+- [Lambda Serverless Setup PDF](https://github.com/user-attachments/files/26068938/aws-lambda-serverless.pdf)
